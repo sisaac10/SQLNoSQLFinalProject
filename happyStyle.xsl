@@ -7,10 +7,12 @@
     <xsl:template match="/">
         <html>
             <body>
-                <h2>World Happiness Report</h2>
-               
-                    <p>I originally retrieved this data from kaggle.com which can be found at the following</p>
-                    <p>link <a href="https://www.kaggle.com/unsdsn/world-happiness">https://www.kaggle.com/unsdsn/world-happiness</a></p>
+                <h2>World Happiness Report Data 2016</h2>
+                <hr />
+                    <p>I downloaded the 2016 version of the World Happiness Report as a csv file from Kaggle, a website that contains datasets available for download.</p>
+                    <p>You can view the kaggle page I downloaded the csv file at this link <a href="https://www.kaggle.com/unsdsn/world-happiness">https://www.kaggle.com/unsdsn/world-happiness</a></p>
+                    <p>The World Happiness Report is published by the <a href="http://unsdsn.org/">United Nations Sustainable Development Solutions Network</a></p>
+                    <p>The data comes from over 150 countries and the variables measured include: GDP, health/life expectancy, freedom, and trust/government corruption.</p>
                 
                     <p>The purpose for posting these datasets is strictly for educational reasons.</p>
                

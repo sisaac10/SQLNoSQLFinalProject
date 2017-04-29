@@ -8,10 +8,12 @@
     <xsl:template match="/">
         <html>
             <body>
-                <h2>World University Rankings (Times Higher Education)</h2>
+                <h2>Times Higher Education World University Rankings 2011 - 2016</h2>
                 
-                    <p>I originally retrieved this data from kaggle.com which can be found at the following</p>
-                    <p>link <a href="https://www.kaggle.com/mylesoneill/world-university-rankings">https://www.kaggle.com/mylesoneill/world-university-rankings</a></p>
+                <p>I downloaded this dataset as a csv file from Kaggle, a website that contains datasets available for download.</p>
+                <p>You can view the kaggle page I downloaded the csv file at this link<a href="https://www.kaggle.com/mylesoneill/world-university-rankings">https://www.kaggle.com/mylesoneill/world-university-rankings</a></p>
+                <p>This dataset is published by the <a href="https://www.timeshighereducation.com/world-university-rankings">Times Higher Education World University Rankings</a></p>
+                <p>This list of the world’s top ranked universities measures variables including: teaching, research, and student to staff ratio.</p>
                     
                     <p>The purpose for posting these datasets is strictly for educational reasons.</p>
                
