@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="row"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="row">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Country"/>
+        <xs:element ref="Region"/>
+        <xs:element ref="Happiness_Rank"/>
+        <xs:element ref="Happiness_Score"/>
+        <xs:element ref="Lower_Confidence_Interval"/>
+        <xs:element ref="Upper_Confidence_Interval"/>
+        <xs:element ref="Economy__GDP_per_Capita_"/>
+        <xs:element ref="Family"/>
+        <xs:element ref="Health__Life_Expectancy_"/>
+        <xs:element ref="Freedom"/>
+        <xs:element ref="Trust__Government_Corruption_"/>
+        <xs:element ref="Generosity"/>
+        <xs:element ref="Dystopia_Residual"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Country" type="xs:string"/>
+  <xs:element name="Region" type="xs:string"/>
+  <xs:element name="Happiness_Rank" type="xs:integer"/>
+  <xs:element name="Happiness_Score" type="xs:decimal"/>
+  <xs:element name="Lower_Confidence_Interval" type="xs:decimal"/>
+  <xs:element name="Upper_Confidence_Interval" type="xs:decimal"/>
+  <xs:element name="Economy__GDP_per_Capita_" type="xs:decimal"/>
+  <xs:element name="Family" type="xs:decimal"/>
+  <xs:element name="Health__Life_Expectancy_" type="xs:decimal"/>
+  <xs:element name="Freedom" type="xs:decimal"/>
+  <xs:element name="Trust__Government_Corruption_" type="xs:decimal"/>
+  <xs:element name="Generosity" type="xs:decimal"/>
+  <xs:element name="Dystopia_Residual" type="xs:decimal"/>
+</xs:schema>
