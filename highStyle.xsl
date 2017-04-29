@@ -9,6 +9,7 @@
         <html>
             <body>
                 <h2>Times Higher Education World University Rankings 2011 - 2016</h2>
+                <hr />
                 
                 <p>I downloaded this dataset as a csv file from Kaggle, a website that contains datasets available for download.</p>
                 <p>You can view the kaggle page I downloaded the csv file at this link<a href="https://www.kaggle.com/mylesoneill/world-university-rankings">https://www.kaggle.com/mylesoneill/world-university-rankings</a></p>
