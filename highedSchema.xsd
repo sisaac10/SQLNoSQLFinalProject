@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="row"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="row">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="world_rank"/>
+        <xs:element ref="university_name"/>
+        <xs:element ref="country"/>
+        <xs:element ref="teaching"/>
+        <xs:element ref="international"/>
+        <xs:element ref="research"/>
+        <xs:element ref="citations"/>
+        <xs:element ref="income"/>
+        <xs:element ref="total_score"/>
+        <xs:element ref="num_students"/>
+        <xs:element ref="student_staff_ratio"/>
+        <xs:element ref="international_students"/>
+        <xs:element ref="female_male_ratio"/>
+        <xs:element ref="year"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="world_rank" type="xs:NMTOKEN"/>
+  <xs:element name="university_name" type="xs:string"/>
+  <xs:element name="country" type="xs:string"/>
+  <xs:element name="teaching" type="xs:decimal"/>
+  <xs:element name="international" type="xs:NMTOKEN"/>
+  <xs:element name="research" type="xs:decimal"/>
+  <xs:element name="citations" type="xs:decimal"/>
+  <xs:element name="income" type="xs:NMTOKEN"/>
+  <xs:element name="total_score" type="xs:NMTOKEN"/>
+  <xs:element name="num_students" type="xs:string"/>
+  <xs:element name="student_staff_ratio" type="xs:string"/>
+  <xs:element name="international_students" type="xs:string"/>
+  <xs:element name="female_male_ratio" type="xs:string"/>
+  <xs:element name="year" type="xs:integer"/>
+</xs:schema>
