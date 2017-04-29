@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edexpStyle.xsl" ?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="edexpSchema.xsd">
+    <row>
+        <country>OECD Average</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.9</Year1995>
+        <Year2000>4.9</Year2000>
+        <Year2005>5</Year2005>
+        <Year2009>5.4</Year2009>
+        <Year2010>5.4</Year2010>
+        <Year2011>5.3</Year2011>
+    </row>
+    <row>
+        <country>Australia</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.5</Year1995>
+        <Year2000>4.6</Year2000>
+        <Year2005>4.3</Year2005>
+        <Year2009>4.5</Year2009>
+        <Year2010>4.6</Year2010>
+        <Year2011>4.3</Year2011>
+    </row>
+    <row>
+        <country>Austria</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>5.3</Year1995>
+        <Year2000>5.4</Year2000>
+        <Year2005>5.2</Year2005>
+        <Year2009>5.7</Year2009>
+        <Year2010>5.6</Year2010>
+        <Year2011>5.5</Year2011>
+    </row>
+    <row>
+        <country>Belgium</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>5</Year1995>
+        <Year2000>5.1</Year2000>
+        <Year2005>5.8</Year2005>
+        <Year2009>6.4</Year2009>
+        <Year2010>6.4</Year2010>
+        <Year2011>6.4</Year2011>
+    </row>
+    <row>
+        <country>Canada</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>5.8</Year1995>
+        <Year2000>5.2</Year2000>
+        <Year2005>4.8</Year2005>
+        <Year2009>5</Year2009>
+        <Year2010>5.2</Year2010>
+        <Year2011></Year2011>
+    </row>
+    <row>
+        <country>Chile</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000>4.2</Year2000>
+        <Year2005>3.3</Year2005>
+        <Year2009>4.1</Year2009>
+        <Year2010>4.3</Year2010>
+        <Year2011>3.9</Year2011>
+    </row>
+    <row>
+        <country>Czech Republic</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.8</Year1995>
+        <Year2000>4.2</Year2000>
+        <Year2005>4.1</Year2005>
+        <Year2009>4.2</Year2009>
+        <Year2010>4.1</Year2010>
+        <Year2011>4.4</Year2011>
+    </row>
+    <row>
+        <country>Denmark</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>6.5</Year1995>
+        <Year2000>6.4</Year2000>
+        <Year2005>6.8</Year2005>
+        <Year2009>7.5</Year2009>
+        <Year2010>7.6</Year2010>
+        <Year2011>7.5</Year2011>
+    </row>
+    <row>
+        <country>Estonia</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000></Year2000>
+        <Year2005>4.7</Year2005>
+        <Year2009>5.9</Year2009>
+        <Year2010>5.6</Year2010>
+        <Year2011>5.2</Year2011>
+    </row>
+    <row>
+        <country>Finland</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>6.6</Year1995>
+        <Year2000>5.5</Year2000>
+        <Year2005>5.9</Year2005>
+        <Year2009>6.3</Year2009>
+        <Year2010>6.4</Year2010>
+        <Year2011>6.3</Year2011>
+    </row>
+    <row>
+        <country>France</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>5.8</Year1995>
+        <Year2000>5.7</Year2000>
+        <Year2005>5.6</Year2005>
+        <Year2009>5.8</Year2009>
+        <Year2010>5.8</Year2010>
+        <Year2011>5.6</Year2011>
+    </row>
+    <row>
+        <country>Germany</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.5</Year1995>
+        <Year2000>4.3</Year2000>
+        <Year2005>4.2</Year2005>
+        <Year2009>4.5</Year2009>
+        <Year2010></Year2010>
+        <Year2011>4.4</Year2011>
+    </row>
+    <row>
+        <country>Greece</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.7</Year1995>
+        <Year2000>3.7</Year2000>
+        <Year2005>4</Year2005>
+        <Year2009></Year2009>
+        <Year2010></Year2010>
+        <Year2011></Year2011>
+    </row>
+    <row>
+        <country>Hungary</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.9</Year1995>
+        <Year2000>4.4</Year2000>
+        <Year2005>5.1</Year2005>
+        <Year2009>4.8</Year2009>
+        <Year2010>4.6</Year2010>
+        <Year2011>4.4</Year2011>
+    </row>
+    <row>
+        <country>Iceland</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.5</Year1995>
+        <Year2000>5.7</Year2000>
+        <Year2005>7.2</Year2005>
+        <Year2009>7.3</Year2009>
+        <Year2010>7</Year2010>
+        <Year2011>6.9</Year2011>
+    </row>
+    <row>
+        <country>Ireland</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.7</Year1995>
+        <Year2000>4.1</Year2000>
+        <Year2005>4.3</Year2005>
+        <Year2009>6</Year2009>
+        <Year2010>6</Year2010>
+        <Year2011>5.7</Year2011>
+    </row>
+    <row>
+        <country>Israel</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000>6.6</Year2000>
+        <Year2005>6.2</Year2005>
+        <Year2009>5.8</Year2009>
+        <Year2010>5.9</Year2010>
+        <Year2011>5.6</Year2011>
+    </row>
+    <row>
+        <country>Italy</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.5</Year1995>
+        <Year2000>4.5</Year2000>
+        <Year2005>4.3</Year2005>
+        <Year2009>4.5</Year2009>
+        <Year2010>4.3</Year2010>
+        <Year2011>4.2</Year2011>
+    </row>
+    <row>
+        <country>Japan</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.6</Year1995>
+        <Year2000>3.5</Year2000>
+        <Year2005>3.4</Year2005>
+        <Year2009>3.6</Year2009>
+        <Year2010>3.6</Year2010>
+        <Year2011>3.6</Year2011>
+    </row>
+    <row>
+        <country>Korea, Republic of</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.6</Year1995>
+        <Year2000>4.3</Year2000>
+        <Year2005>4.3</Year2005>
+        <Year2009>4.9</Year2009>
+        <Year2010>4.8</Year2010>
+        <Year2011>4.9</Year2011>
+    </row>
+    <row>
+        <country>Luxembourg</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.3</Year1995>
+        <Year2000></Year2000>
+        <Year2005></Year2005>
+        <Year2009></Year2009>
+        <Year2010></Year2010>
+        <Year2011></Year2011>
+    </row>
+    <row>
+        <country>Mexico</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.6</Year1995>
+        <Year2000>4.7</Year2000>
+        <Year2005>5.3</Year2005>
+        <Year2009>5</Year2009>
+        <Year2010>5.1</Year2010>
+        <Year2011>5</Year2011>
+    </row>
+    <row>
+        <country>Netherlands</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.6</Year1995>
+        <Year2000>4.3</Year2000>
+        <Year2005>4.6</Year2005>
+        <Year2009>5.3</Year2009>
+        <Year2010>5.4</Year2010>
+        <Year2011>5.3</Year2011>
+    </row>
+    <row>
+        <country>New Zealand</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>5.3</Year1995>
+        <Year2000>5.8</Year2000>
+        <Year2005>5.2</Year2005>
+        <Year2009>6.1</Year2009>
+        <Year2010>6</Year2010>
+        <Year2011>6.3</Year2011>
+    </row>
+    <row>
+        <country>Norway</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>6.8</Year1995>
+        <Year2000>5.8</Year2000>
+        <Year2005>5.7</Year2005>
+        <Year2009>6.1</Year2009>
+        <Year2010>7.5</Year2010>
+        <Year2011>7.3</Year2011>
+    </row>
+    <row>
+        <country>Poland</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>5.2</Year1995>
+        <Year2000>5.2</Year2000>
+        <Year2005>5.4</Year2005>
+        <Year2009>5</Year2009>
+        <Year2010>5</Year2010>
+        <Year2011>4.8</Year2011>
+    </row>
+    <row>
+        <country>Portugal</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>5.4</Year1995>
+        <Year2000>5.6</Year2000>
+        <Year2005>5.3</Year2005>
+        <Year2009>5.5</Year2009>
+        <Year2010>5.4</Year2010>
+        <Year2011>5.1</Year2011>
+    </row>
+    <row>
+        <country>Slovak Republic</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.6</Year1995>
+        <Year2000>4</Year2000>
+        <Year2005>3.7</Year2005>
+        <Year2009>4.1</Year2009>
+        <Year2010>4</Year2010>
+        <Year2011>3.8</Year2011>
+    </row>
+    <row>
+        <country>Slovenia</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000></Year2000>
+        <Year2005>5.3</Year2005>
+        <Year2009>5.3</Year2009>
+        <Year2010>5.2</Year2010>
+        <Year2011>5.3</Year2011>
+    </row>
+    <row>
+        <country>Spain</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.8</Year1995>
+        <Year2000>4.3</Year2000>
+        <Year2005>4.1</Year2005>
+        <Year2009>4.9</Year2009>
+        <Year2010>4.8</Year2010>
+        <Year2011>4.7</Year2011>
+    </row>
+    <row>
+        <country>Sweden</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>6.6</Year1995>
+        <Year2000>6.3</Year2000>
+        <Year2005>6.2</Year2005>
+        <Year2009>6.6</Year2009>
+        <Year2010>6.3</Year2010>
+        <Year2011>6.2</Year2011>
+    </row>
+    <row>
+        <country>Switzerland</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>5.5</Year1995>
+        <Year2000>5.3</Year2000>
+        <Year2005>5.6</Year2005>
+        <Year2009>5.5</Year2009>
+        <Year2010>5.2</Year2010>
+        <Year2011>5.2</Year2011>
+    </row>
+    <row>
+        <country>Turkey</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>2.2</Year1995>
+        <Year2000>3.4</Year2000>
+        <Year2005></Year2005>
+        <Year2009></Year2009>
+        <Year2010></Year2010>
+        <Year2011></Year2011>
+    </row>
+    <row>
+        <country>United Kingdom</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.6</Year1995>
+        <Year2000>4.5</Year2000>
+        <Year2005>5</Year2005>
+        <Year2009>5.3</Year2009>
+        <Year2010>5.9</Year2010>
+        <Year2011>5.6</Year2011>
+    </row>
+    <row>
+        <country>United States</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>5</Year1995>
+        <Year2000>4.6</Year2000>
+        <Year2005>4.9</Year2005>
+        <Year2009>5.3</Year2009>
+        <Year2010>5.1</Year2010>
+        <Year2011>4.7</Year2011>
+    </row>
+    <row>
+        <country>  Brazil</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000></Year2000>
+        <Year2005>4.4</Year2005>
+        <Year2009>5.5</Year2009>
+        <Year2010>5.6</Year2010>
+        <Year2011>5.9</Year2011>
+    </row>
+    <row>
+        <country>  Russian Federation</country>
+        <institute_type>All Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.4</Year1995>
+        <Year2000>3</Year2000>
+        <Year2005>3.8</Year2005>
+        <Year2009>4.7</Year2009>
+        <Year2010>4.1</Year2010>
+        <Year2011>3.9</Year2011>
+    </row>
+    <row>
+        <country>OECD Average</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.5</Year1995>
+        <Year2000>3.4</Year2000>
+        <Year2005>3.5</Year2005>
+        <Year2009>3.7</Year2009>
+        <Year2010>3.7</Year2010>
+        <Year2011>3.6</Year2011>
+    </row>
+    <row>
+        <country>Australia</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.2</Year1995>
+        <Year2000>3.7</Year2000>
+        <Year2005>3.4</Year2005>
+        <Year2009>3.6</Year2009>
+        <Year2010>3.7</Year2010>
+        <Year2011>3.5</Year2011>
+    </row>
+    <row>
+        <country>Austria</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.8</Year1995>
+        <Year2000>3.7</Year2000>
+        <Year2005>3.5</Year2005>
+        <Year2009>3.8</Year2009>
+        <Year2010>3.5</Year2010>
+        <Year2011>3.5</Year2011>
+    </row>
+    <row>
+        <country>Belgium</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.4</Year1995>
+        <Year2000>3.4</Year2000>
+        <Year2005>3.9</Year2005>
+        <Year2009>4.3</Year2009>
+        <Year2010>4.3</Year2010>
+        <Year2011>4.3</Year2011>
+    </row>
+    <row>
+        <country>Canada</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4</Year1995>
+        <Year2000>3.3</Year2000>
+        <Year2005>3.3</Year2005>
+        <Year2009>3.4</Year2009>
+        <Year2010>3.6</Year2010>
+        <Year2011></Year2011>
+    </row>
+    <row>
+        <country>Chile</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000>3.2</Year2000>
+        <Year2005>2.7</Year2005>
+        <Year2009>3.3</Year2009>
+        <Year2010>2.9</Year2010>
+        <Year2011>2.7</Year2011>
+    </row>
+    <row>
+        <country>Czech Republic</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.4</Year1995>
+        <Year2000>2.8</Year2000>
+        <Year2005>2.7</Year2005>
+        <Year2009>2.6</Year2009>
+        <Year2010>2.6</Year2010>
+        <Year2011>2.6</Year2011>
+    </row>
+    <row>
+        <country>Denmark</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.2</Year1995>
+        <Year2000>4.1</Year2000>
+        <Year2005>4.4</Year2005>
+        <Year2009>4.7</Year2009>
+        <Year2010>4.7</Year2010>
+        <Year2011>4.3</Year2011>
+    </row>
+    <row>
+        <country>Estonia</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000></Year2000>
+        <Year2005>3.5</Year2005>
+        <Year2009>4.1</Year2009>
+        <Year2010>3.9</Year2010>
+        <Year2011>3.3</Year2011>
+    </row>
+    <row>
+        <country>Finland</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.2</Year1995>
+        <Year2000>3.5</Year2000>
+        <Year2005>3.8</Year2005>
+        <Year2009>4.1</Year2009>
+        <Year2010>4.1</Year2010>
+        <Year2011>4.1</Year2011>
+    </row>
+    <row>
+        <country>France</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.1</Year1995>
+        <Year2000>4</Year2000>
+        <Year2005>3.8</Year2005>
+        <Year2009>3.8</Year2009>
+        <Year2010>3.8</Year2010>
+        <Year2011>3.7</Year2011>
+    </row>
+    <row>
+        <country>Germany</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>2.9</Year1995>
+        <Year2000>2.9</Year2000>
+        <Year2005>2.8</Year2005>
+        <Year2009>2.9</Year2009>
+        <Year2010></Year2010>
+        <Year2011>2.8</Year2011>
+    </row>
+    <row>
+        <country>Greece</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>2.8</Year1995>
+        <Year2000>2.7</Year2000>
+        <Year2005>2.5</Year2005>
+        <Year2009></Year2009>
+        <Year2010></Year2010>
+        <Year2011></Year2011>
+    </row>
+    <row>
+        <country>Hungary</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.3</Year1995>
+        <Year2000>2.8</Year2000>
+        <Year2005>3.3</Year2005>
+        <Year2009>3</Year2009>
+        <Year2010>2.8</Year2010>
+        <Year2011>2.6</Year2011>
+    </row>
+    <row>
+        <country>Iceland</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.4</Year1995>
+        <Year2000>4.6</Year2000>
+        <Year2005>5.2</Year2005>
+        <Year2009>5</Year2009>
+        <Year2010>4.7</Year2010>
+        <Year2011>4.7</Year2011>
+    </row>
+    <row>
+        <country>Ireland</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.3</Year1995>
+        <Year2000>2.9</Year2000>
+        <Year2005>3.3</Year2005>
+        <Year2009>4.6</Year2009>
+        <Year2010>4.6</Year2010>
+        <Year2011>4.4</Year2011>
+    </row>
+    <row>
+        <country>Israel</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000>4.5</Year2000>
+        <Year2005>4.2</Year2005>
+        <Year2009>3.8</Year2009>
+        <Year2010>4</Year2010>
+        <Year2011>3.8</Year2011>
+    </row>
+    <row>
+        <country>Italy</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.2</Year1995>
+        <Year2000>3.2</Year2000>
+        <Year2005>3.2</Year2005>
+        <Year2009>3.3</Year2009>
+        <Year2010>3.1</Year2010>
+        <Year2011>3</Year2011>
+    </row>
+    <row>
+        <country>Japan</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>2.8</Year1995>
+        <Year2000>2.7</Year2000>
+        <Year2005>2.6</Year2005>
+        <Year2009>2.7</Year2009>
+        <Year2010>2.8</Year2010>
+        <Year2011>2.7</Year2011>
+    </row>
+    <row>
+        <country>Korea, Republic of</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3</Year1995>
+        <Year2000>3.3</Year2000>
+        <Year2005>3.4</Year2005>
+        <Year2009>3.6</Year2009>
+        <Year2010>3.4</Year2010>
+        <Year2011>3.4</Year2011>
+    </row>
+    <row>
+        <country>Luxembourg</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.2</Year1995>
+        <Year2000></Year2000>
+        <Year2005>3.7</Year2005>
+        <Year2009>3.2</Year2009>
+        <Year2010>3.4</Year2010>
+        <Year2011>3.3</Year2011>
+    </row>
+    <row>
+        <country>Mexico</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.4</Year1995>
+        <Year2000>3.3</Year2000>
+        <Year2005>3.7</Year2005>
+        <Year2009>3.3</Year2009>
+        <Year2010>3.4</Year2010>
+        <Year2011>3.3</Year2011>
+    </row>
+    <row>
+        <country>Netherlands</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3</Year1995>
+        <Year2000>3</Year2000>
+        <Year2005>3.3</Year2005>
+        <Year2009>3.7</Year2009>
+        <Year2010>3.7</Year2010>
+        <Year2011>3.6</Year2011>
+    </row>
+    <row>
+        <country>New Zealand</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.8</Year1995>
+        <Year2000>4.6</Year2000>
+        <Year2005>4</Year2005>
+        <Year2009>4.5</Year2009>
+        <Year2010>4.4</Year2010>
+        <Year2011>4.8</Year2011>
+    </row>
+    <row>
+        <country>Norway</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.1</Year1995>
+        <Year2000>3.6</Year2000>
+        <Year2005>3.8</Year2005>
+        <Year2009>4.2</Year2009>
+        <Year2010>5.1</Year2010>
+        <Year2011>4.9</Year2011>
+    </row>
+    <row>
+        <country>Poland</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.3</Year1995>
+        <Year2000>3.7</Year2000>
+        <Year2005>3.7</Year2005>
+        <Year2009>3.5</Year2009>
+        <Year2010>3.4</Year2010>
+        <Year2011>3.2</Year2011>
+    </row>
+    <row>
+        <country>Portugal</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.1</Year1995>
+        <Year2000>4.1</Year2000>
+        <Year2005>3.8</Year2005>
+        <Year2009>4</Year2009>
+        <Year2010>3.9</Year2010>
+        <Year2011>3.7</Year2011>
+    </row>
+    <row>
+        <country>Slovak Republic</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000>2.7</Year2000>
+        <Year2005>2.5</Year2005>
+        <Year2009>2.7</Year2009>
+        <Year2010>2.8</Year2010>
+        <Year2011>2.5</Year2011>
+    </row>
+    <row>
+        <country>Slovenia</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000></Year2000>
+        <Year2005>3.9</Year2005>
+        <Year2009>3.6</Year2009>
+        <Year2010>3.6</Year2010>
+        <Year2011>3.5</Year2011>
+    </row>
+    <row>
+        <country>Spain</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.5</Year1995>
+        <Year2000>3.1</Year2000>
+        <Year2005>2.7</Year2005>
+        <Year2009>3.1</Year2009>
+        <Year2010>3</Year2010>
+        <Year2011>2.9</Year2011>
+    </row>
+    <row>
+        <country>Sweden</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.4</Year1995>
+        <Year2000>4.4</Year2000>
+        <Year2005>4.2</Year2005>
+        <Year2009>4.2</Year2009>
+        <Year2010>4</Year2010>
+        <Year2011>3.9</Year2011>
+    </row>
+    <row>
+        <country>Switzerland</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>4.1</Year1995>
+        <Year2000>3.8</Year2000>
+        <Year2005>3.9</Year2005>
+        <Year2009>3.8</Year2009>
+        <Year2010>3.6</Year2010>
+        <Year2011>3.6</Year2011>
+    </row>
+    <row>
+        <country>Turkey</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1.4</Year1995>
+        <Year2000>2.4</Year2000>
+        <Year2005></Year2005>
+        <Year2009></Year2009>
+        <Year2010>2.5</Year2010>
+        <Year2011></Year2011>
+    </row>
+    <row>
+        <country>United Kingdom</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.8</Year1995>
+        <Year2000>3.4</Year2000>
+        <Year2005>3.8</Year2005>
+        <Year2009>4.5</Year2009>
+        <Year2010>4.8</Year2010>
+        <Year2011>4.4</Year2011>
+    </row>
+    <row>
+        <country>United States</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>3.5</Year1995>
+        <Year2000>3.5</Year2000>
+        <Year2005>3.6</Year2005>
+        <Year2009>3.8</Year2009>
+        <Year2010>3.7</Year2010>
+        <Year2011>3.4</Year2011>
+    </row>
+    <row>
+        <country>  Brazil</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000></Year2000>
+        <Year2005>3.3</Year2005>
+        <Year2009>4.3</Year2009>
+        <Year2010>4.3</Year2010>
+        <Year2011>4.4</Year2011>
+    </row>
+    <row>
+        <country>  Russian Federation</country>
+        <institute_type>Elementary and Secondary Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1.9</Year1995>
+        <Year2000>1.7</Year2000>
+        <Year2005>1.9</Year2005>
+        <Year2009>2.3</Year2009>
+        <Year2010>2</Year2010>
+        <Year2011>2</Year2011>
+    </row>
+    <row>
+        <country>OECD Average</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.9</Year1995>
+        <Year2000>1</Year2000>
+        <Year2005>1</Year2005>
+        <Year2009>1.1</Year2009>
+        <Year2010>1.1</Year2010>
+        <Year2011>1.1</Year2011>
+    </row>
+    <row>
+        <country>Australia</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1.2</Year1995>
+        <Year2000>0.8</Year2000>
+        <Year2005>0.8</Year2005>
+        <Year2009>0.7</Year2009>
+        <Year2010>0.8</Year2010>
+        <Year2011>0.7</Year2011>
+    </row>
+    <row>
+        <country>Austria</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.9</Year1995>
+        <Year2000>1.2</Year2000>
+        <Year2005>1.2</Year2005>
+        <Year2009>1.4</Year2009>
+        <Year2010>1.5</Year2010>
+        <Year2011>1.4</Year2011>
+    </row>
+    <row>
+        <country>Belgium</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.9</Year1995>
+        <Year2000>1.2</Year2000>
+        <Year2005>1.2</Year2005>
+        <Year2009>1.4</Year2009>
+        <Year2010>1.4</Year2010>
+        <Year2011>1.3</Year2011>
+    </row>
+    <row>
+        <country>Canada</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1.5</Year1995>
+        <Year2000>1.6</Year2000>
+        <Year2005>1.5</Year2005>
+        <Year2009>1.5</Year2009>
+        <Year2010>1.6</Year2010>
+        <Year2011></Year2011>
+    </row>
+    <row>
+        <country>Chile</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000>0.6</Year2000>
+        <Year2005>0.3</Year2005>
+        <Year2009>0.3</Year2009>
+        <Year2010>0.8</Year2010>
+        <Year2011>0.7</Year2011>
+    </row>
+    <row>
+        <country>Czech Republic</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.7</Year1995>
+        <Year2000>0.8</Year2000>
+        <Year2005>0.8</Year2005>
+        <Year2009>1</Year2009>
+        <Year2010>1</Year2010>
+        <Year2011>1.2</Year2011>
+    </row>
+    <row>
+        <country>Denmark</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1.3</Year1995>
+        <Year2000>1.5</Year2000>
+        <Year2005>1.6</Year2005>
+        <Year2009>1.8</Year2009>
+        <Year2010>1.8</Year2010>
+        <Year2011>1.8</Year2011>
+    </row>
+    <row>
+        <country>Estonia</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000></Year2000>
+        <Year2005>0.9</Year2005>
+        <Year2009>1.3</Year2009>
+        <Year2010>1.3</Year2010>
+        <Year2011>1.4</Year2011>
+    </row>
+    <row>
+        <country>Finland</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1.7</Year1995>
+        <Year2000>1.7</Year2000>
+        <Year2005>1.7</Year2005>
+        <Year2009>1.8</Year2009>
+        <Year2010>1.9</Year2010>
+        <Year2011>1.9</Year2011>
+    </row>
+    <row>
+        <country>France</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1</Year1995>
+        <Year2000>1</Year2000>
+        <Year2005>1.1</Year2005>
+        <Year2009>1.3</Year2009>
+        <Year2010>1.3</Year2010>
+        <Year2011>1.3</Year2011>
+    </row>
+    <row>
+        <country>Germany</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1</Year1995>
+        <Year2000>1</Year2000>
+        <Year2005>0.9</Year2005>
+        <Year2009>1.1</Year2009>
+        <Year2010></Year2010>
+        <Year2011>1.1</Year2011>
+    </row>
+    <row>
+        <country>Greece</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.8</Year1995>
+        <Year2000>0.9</Year2000>
+        <Year2005>1.4</Year2005>
+        <Year2009></Year2009>
+        <Year2010></Year2010>
+        <Year2011></Year2011>
+    </row>
+    <row>
+        <country>Hungary</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.8</Year1995>
+        <Year2000>0.9</Year2000>
+        <Year2005>0.9</Year2005>
+        <Year2009>1</Year2009>
+        <Year2010>0.8</Year2010>
+        <Year2011>1</Year2011>
+    </row>
+    <row>
+        <country>Iceland</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.7</Year1995>
+        <Year2000>0.8</Year2000>
+        <Year2005>1.1</Year2005>
+        <Year2009>1.2</Year2009>
+        <Year2010>1.1</Year2010>
+        <Year2011>1.1</Year2011>
+    </row>
+    <row>
+        <country>Ireland</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.9</Year1995>
+        <Year2000>1.2</Year2000>
+        <Year2005>1</Year2005>
+        <Year2009>1.4</Year2009>
+        <Year2010>1.3</Year2010>
+        <Year2011>1.2</Year2011>
+    </row>
+    <row>
+        <country>Israel</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000>1.1</Year2000>
+        <Year2005>1</Year2005>
+        <Year2009>1</Year2009>
+        <Year2010>1</Year2010>
+        <Year2011>0.9</Year2011>
+    </row>
+    <row>
+        <country>Italy</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.7</Year1995>
+        <Year2000>0.7</Year2000>
+        <Year2005>0.6</Year2005>
+        <Year2009>0.8</Year2009>
+        <Year2010>0.8</Year2010>
+        <Year2011>0.8</Year2011>
+    </row>
+    <row>
+        <country>Japan</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.4</Year1995>
+        <Year2000>0.5</Year2000>
+        <Year2005>0.5</Year2005>
+        <Year2009>0.5</Year2009>
+        <Year2010>0.5</Year2010>
+        <Year2011>0.5</Year2011>
+    </row>
+    <row>
+        <country>Korea, Republic of</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.3</Year1995>
+        <Year2000>0.6</Year2000>
+        <Year2005>0.6</Year2005>
+        <Year2009>0.7</Year2009>
+        <Year2010>0.7</Year2010>
+        <Year2011>0.7</Year2011>
+    </row>
+    <row>
+        <country>Luxembourg</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.1</Year1995>
+        <Year2000></Year2000>
+        <Year2005></Year2005>
+        <Year2009></Year2009>
+        <Year2010></Year2010>
+        <Year2011></Year2011>
+    </row>
+    <row>
+        <country>Mexico</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.8</Year1995>
+        <Year2000>0.8</Year2000>
+        <Year2005>0.9</Year2005>
+        <Year2009>1</Year2009>
+        <Year2010>1</Year2010>
+        <Year2011>0.9</Year2011>
+    </row>
+    <row>
+        <country>Netherlands</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1.1</Year1995>
+        <Year2000>1</Year2000>
+        <Year2005>1</Year2005>
+        <Year2009>1.2</Year2009>
+        <Year2010>1.3</Year2010>
+        <Year2011>1.3</Year2011>
+    </row>
+    <row>
+        <country>New Zealand</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1.1</Year1995>
+        <Year2000>0.9</Year2000>
+        <Year2005>0.9</Year2005>
+        <Year2009>1.1</Year2009>
+        <Year2010>1</Year2010>
+        <Year2011>1</Year2011>
+    </row>
+    <row>
+        <country>Norway</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1.5</Year1995>
+        <Year2000>1.2</Year2000>
+        <Year2005>1.3</Year2005>
+        <Year2009>1.3</Year2009>
+        <Year2010>1.6</Year2010>
+        <Year2011>1.6</Year2011>
+    </row>
+    <row>
+        <country>Poland</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.8</Year1995>
+        <Year2000>0.8</Year2000>
+        <Year2005>1.2</Year2005>
+        <Year2009>1.1</Year2009>
+        <Year2010>1</Year2010>
+        <Year2011>1</Year2011>
+    </row>
+    <row>
+        <country>Portugal</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1</Year1995>
+        <Year2000>1</Year2000>
+        <Year2005>0.9</Year2005>
+        <Year2009>1</Year2009>
+        <Year2010>1</Year2010>
+        <Year2011>1</Year2011>
+    </row>
+    <row>
+        <country>Slovak Republic</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000>0.7</Year2000>
+        <Year2005>0.7</Year2005>
+        <Year2009>0.7</Year2009>
+        <Year2010>0.7</Year2010>
+        <Year2011>0.8</Year2011>
+    </row>
+    <row>
+        <country>Slovenia</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000></Year2000>
+        <Year2005>1</Year2005>
+        <Year2009>1.1</Year2009>
+        <Year2010>1.1</Year2010>
+        <Year2011>1.1</Year2011>
+    </row>
+    <row>
+        <country>Spain</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.8</Year1995>
+        <Year2000>0.9</Year2000>
+        <Year2005>0.9</Year2005>
+        <Year2009>1.1</Year2009>
+        <Year2010>1.1</Year2010>
+        <Year2011>1</Year2011>
+    </row>
+    <row>
+        <country>Sweden</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1.6</Year1995>
+        <Year2000>1.5</Year2000>
+        <Year2005>1.5</Year2005>
+        <Year2009>1.6</Year2009>
+        <Year2010>1.6</Year2010>
+        <Year2011>1.6</Year2011>
+    </row>
+    <row>
+        <country>Switzerland</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1.1</Year1995>
+        <Year2000>1.2</Year2000>
+        <Year2005>1.4</Year2005>
+        <Year2009>1.4</Year2009>
+        <Year2010>1.3</Year2010>
+        <Year2011>1.3</Year2011>
+    </row>
+    <row>
+        <country>Turkey</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.8</Year1995>
+        <Year2000>1</Year2000>
+        <Year2005></Year2005>
+        <Year2009></Year2009>
+        <Year2010></Year2010>
+        <Year2011></Year2011>
+    </row>
+    <row>
+        <country>United Kingdom</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.7</Year1995>
+        <Year2000>0.7</Year2000>
+        <Year2005>0.9</Year2005>
+        <Year2009>0.6</Year2009>
+        <Year2010>0.7</Year2010>
+        <Year2011>0.9</Year2011>
+    </row>
+    <row>
+        <country>United States</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>1.1</Year1995>
+        <Year2000>0.8</Year2000>
+        <Year2005>1</Year2005>
+        <Year2009>1.1</Year2009>
+        <Year2010>1</Year2010>
+        <Year2011>0.9</Year2011>
+    </row>
+    <row>
+        <country>  Brazil</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995></Year1995>
+        <Year2000></Year2000>
+        <Year2005>0.8</Year2005>
+        <Year2009>0.8</Year2009>
+        <Year2010>0.9</Year2010>
+        <Year2011>0.9</Year2011>
+    </row>
+    <row>
+        <country>  Russian Federation</country>
+        <institute_type>Higher Education Institutions </institute_type>
+        <direct_expenditure_type>Public</direct_expenditure_type>
+        <Year1995>0.7</Year1995>
+        <Year2000>0.5</Year2000>
+        <Year2005>0.8</Year2005>
+        <Year2009>1.2</Year2009>
+        <Year2010>1</Year2010>
+        <Year2011>0.9</Year2011>
+    </row>
+</root>

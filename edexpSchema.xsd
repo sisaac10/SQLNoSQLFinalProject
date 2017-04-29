@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="row"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="row">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="country"/>
+        <xs:element ref="institute_type"/>
+        <xs:element ref="direct_expenditure_type"/>
+        <xs:element ref="Year1995"/>
+        <xs:element ref="Year2000"/>
+        <xs:element ref="Year2005"/>
+        <xs:element ref="Year2009"/>
+        <xs:element ref="Year2010"/>
+        <xs:element ref="Year2011"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="country" type="xs:string"/>
+  <xs:element name="institute_type" type="xs:string"/>
+  <xs:element name="direct_expenditure_type" type="xs:NCName"/>
+  <xs:element name="Year1995" type="xs:string"/>
+  <xs:element name="Year2000" type="xs:string"/>
+  <xs:element name="Year2005" type="xs:string"/>
+  <xs:element name="Year2009" type="xs:string"/>
+  <xs:element name="Year2010" type="xs:string"/>
+  <xs:element name="Year2011" type="xs:string"/>
+</xs:schema>
