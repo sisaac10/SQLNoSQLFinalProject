@@ -31,7 +31,14 @@
   <img src ="pic1SQLFP.jpg" height = "600"/>
   <p>The results of my queries showed that there was no obvious correlation between number of top universities and happiness rank. Iceland</p> 
   <p>had only 1 top ranked university but had a higher happiness rank than Australia which had 31 top universities. Once I finished this</p> 
-  <p>set of queries I moved on to query the educational expenditure data, collection title “edexpense.” </p>
- <img src ="pic2SQLFP.jpg" height = "400"/> 
+  <p>set of queries I moved on to query the educational expenditure data, collection title “edexpense.” I queried this collection to find</p> 
+  <p>the educational expenditures for countries in the top ten happiness ranks. For example I used the command db.edexpense.find( {country: “Denmark”} , {institute_type:1 , 2011:1} )</p> 
+  <p>to find the expenditures for elementary, secondary, and higher education in the year 2011. In the edexpense collection each expenditure</p> 
+  <p>is represented as a percent of GDP. The results of the query showed that the countries in the top 10 happiness ranks spend between 3.5% - 4.9% on</p> 
+  <p>elementary and secondary education and between 0.7% - 1.8% on higher education. </p>
+  <img src ="pic2SQLFP.jpg" height = "400"/> 
+  <p>I queried the US to compare the numbers and that the US ranked 13th in happiness, spent 3.4% on elementary and secondary education and 0.9% on</p> 
+  <p>higher education, had 146 of the top universities, and 14 of those were in the top 20 universities in the world.</p>
+  <img src ="pic3SQLFP.jpg" height = "400"/>
 </body>
 </html>
