@@ -23,6 +23,11 @@
     <li><a href="https://sisaac10.github.io/SQLNoSQLFinalProject/edexpense.xml">Direct Expenditures on Education as a Percent of GDP by Country</a></li>
     <li><a href="https://sisaac10.github.io/SQLNoSQLFinalProject/highered.xml">Times Higher Education World University Rankings 2011 - 2016</a></li>
   </ul>
+  <p>One of the queries I performed on the world happiness collection, titled “happiness”, was to find the countries with the top ten</p> 
+  <p>happiness ranks. I used the command db.happiness.find({}).limit(10).pretty( ). Then I queried the world university ranking collection,</p> 
+  <p>titled “highered”, to find the number of universities and their ranks. For example, Denmark was ranked 1st in happiness in 2016, so I </p>
+  <p>wanted to find out how many top ranked universities they had in 2016. I used db.highered.find( {country: "Denmark", year: 2016}, {world_rank:1} )</p> 
+  <p>to find the universities ranks and db.highered.find( {country: "Denmark", year: 2016} ).count() to find the total.</p>
   <img src ="pic1SQLFP.jpg" height = "600"/>
 </body>
 </html>
