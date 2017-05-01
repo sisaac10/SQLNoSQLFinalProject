@@ -11,7 +11,7 @@
                 <hr />
                 
                     <p>I downloaded this dataset as a csv file from Kaggle, a website that contains datasets available for download.</p>
-                    <p>You can view the kaggle page I downloaded the csv file at this link<a href="https://www.kaggle.com/mylesoneill/world-university-rankings">https://www.kaggle.com/mylesoneill/world-university-rankings</a></p>
+                    <p>You can view the kaggle page I downloaded the csv file at this link <a href="https://www.kaggle.com/mylesoneill/world-university-rankings">https://www.kaggle.com/mylesoneill/world-university-rankings</a></p>
                     <p>This dataset is published by the <a href="https://nces.ed.gov/programs/digest/d14/tables/dt14_605.20.asp">National Center for Education Statistics</a></p>
                     <p>The variables measured pertain to the, “Public and private direct expenditures on education institutions as a percentage of gross domestic product, by level of </p>
                     <p>education and country: Selected years, 1995 through 2011.” ( NCES website, 
