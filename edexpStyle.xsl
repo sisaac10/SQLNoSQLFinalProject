@@ -17,6 +17,10 @@
                     <p>education and country: Selected years, 1995 through 2011.” ( NCES website, 
                     Digest of Education Statistics <a href="https://nces.ed.gov/programs/digest/d14/tables/dt14_605.20.asp">https://nces.ed.gov/programs/digest/d14/tables/dt14_605.20.asp</a> )</p>
                     
+                    <p>The copyright to these datafiles belongs to National Center for Education Statistics</p>
+                    <p>Organization for Economic Cooperation and Development (OECD), Online Education Database; and Education at a</p> 
+                    <p>Glance, 2008 through 2014. U.S. Department of Education, National Center for Education Statistics, International</p> 
+                    <p>Education Indicators: A Time Series Perspective, 1985-1995 (NCES 2000-021). (Table was prepared August 2014.)</p>
                     <p>The purpose for posting these datasets is strictly for educational reasons.</p>
                 
                 <table border="1">
