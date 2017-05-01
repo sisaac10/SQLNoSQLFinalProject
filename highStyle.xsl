@@ -16,7 +16,8 @@
                 <p>This dataset is published by the <a href="https://www.timeshighereducation.com/world-university-rankings">Times Higher Education World University Rankings</a></p>
                 <p>This list of the world’s top ranked universities measures variables including: teaching, research, and student to staff ratio.</p>
                     
-                    <p>The purpose for posting these datasets is strictly for educational reasons.</p>
+                <p>The copyright to these data files belongs to Times Higher Education</p>
+                <p>The purpose for posting these datasets is strictly for educational reasons.</p>
                
                 <table border="1">
                     <tr bgcolor="#3498DB">
