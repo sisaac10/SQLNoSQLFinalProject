@@ -11,7 +11,7 @@
   <p>This website was created to present my work related to my Final Project for I590 SQL NoSQL class 
   taught by Professor Ying Ding at Indiana University. The presentation of this work is strictly for academic purposes</p>
   <br />
-  <p>Introduction</p>
+  <p><b>Introduction</b></p>
   <p>The correlations between the happiness of a country and variety of factors have been accounted for in a dataset known as the</p> 
   <p>World Happiness Report. This report does not contain any data relating to how education may impact happiness of country. For this</p> 
   <p>final project I queried three different datasets: The 2016 World Happiness Report, the Times Higher Education World University</p> 
@@ -25,15 +25,15 @@
     <li><a href="https://sisaac10.github.io/SQLNoSQLFinalProject/highered.xml">Times Higher Education World University Rankings 2011 - 2016</a></li>
   </ul>
   <p>One of the queries I performed on the world happiness collection, titled “happiness”, was to find the countries with the top ten</p> 
-  <p>happiness ranks. I used the command db.happiness.find({}).limit(10).pretty( ). Then I queried the world university ranking collection,</p> 
+  <p>happiness ranks. I used the command <b>db.happiness.find({}).limit(10).pretty( )</b>. Then I queried the world university ranking collection,</p> 
   <p>titled “highered”, to find the number of universities and their ranks. For example, Denmark was ranked 1st in happiness in 2016, so I </p>
-  <p>wanted to find out how many top ranked universities they had in 2016. I used db.highered.find( {country: "Denmark", year: 2016}, {world_rank:1} )</p> 
-  <p>to find the universities ranks and db.highered.find( {country: "Denmark", year: 2016} ).count() to find the total.</p>
+  <p>wanted to find out how many top ranked universities they had in 2016. I used <b>db.highered.find( {country: "Denmark", year: 2016}, {world_rank:1} )</b></p> 
+  <p>to find the universities ranks and <b>db.highered.find( {country: "Denmark", year: 2016} ).count()</b> to find the total.</p>
   <img src ="pic1SQLFP.jpg" height = "600"/>
   <p>The results of my queries showed that there was no obvious correlation between number of top universities and happiness rank. Iceland</p> 
   <p>had only 1 top ranked university but had a higher happiness rank than Australia which had 31 top universities. Once I finished this</p> 
   <p>set of queries I moved on to query the educational expenditure data, collection title “edexpense.” I queried this collection to find</p> 
-  <p>the educational expenditures for countries in the top ten happiness ranks. For example I used the command db.edexpense.find( {country: “Denmark”} , {institute_type:1 , 2011:1} )</p> 
+  <p>the educational expenditures for countries in the top ten happiness ranks. For example I used the command <b>db.edexpense.find( {country: “Denmark”} , {institute_type:1 , 2011:1} )</b></p> 
   <p>to find the expenditures for elementary, secondary, and higher education in the year 2011. In the edexpense collection each expenditure</p> 
   <p>is represented as a percent of GDP. The results of the query showed that the countries in the top 10 happiness ranks spend between 3.5% - 4.9% on</p> 
   <p>elementary and secondary education and between 0.7% - 1.8% on higher education. </p>
@@ -42,7 +42,7 @@
   <p>higher education, had 146 of the top universities, and 14 of those were in the top 20 universities in the world.</p>
   <img src ="pic3SQLFP.jpg" height = "700"/>
   <p>The next query I wanted to perform was to find out how many students at the top universities were international students. I used</p> 
-  <p>the command db.highered.find({},{university_name:1, international_students:1} ).limit(10) to query the top ten universities. The</p> 
+  <p>the command <b>db.highered.find({},{university_name:1, international_students:1} ).limit(10)</b> to query the top ten universities. The</p> 
   <p>results ranged from 15% - 51% with most either being in the mid 20% or mid 30%. If 20 to 30 percent of your students are graduating</p> 
   <p>and going to another country to make their living this may also be a factor as to why education may not be having a stronger impact on</p> 
   <p>a country’s overall happiness.</p>
