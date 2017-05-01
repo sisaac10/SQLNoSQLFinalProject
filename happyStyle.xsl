@@ -14,6 +14,9 @@
                     <p>The World Happiness Report is published by the <a href="http://unsdsn.org/">United Nations Sustainable Development Solutions Network</a></p>
                     <p>The data comes from over 150 countries and the variables measured include: GDP, health/life expectancy, freedom, and trust/government corruption.</p>
                 
+                    <p>The copyright to these data files belongs to United Nation Sustainable Development Solutions Network</p>
+                    <p>Helliwell, J., Layard, R., and Sachs, J. (2016). World Happiness Report 2016, Update (Vol. I). New York: Sustainable</p> 
+                    <p>Development Solutions Network.</p> 
                     <p>The purpose for posting these datasets is strictly for educational reasons.</p>
                
                 <table border="1">
